@@ -111,14 +111,11 @@ main, #submain{
     height: 100vh;
     display: flex;
     justify-content: center;
-    
-    
-}
-
-#skills ul{
-    display: flex;
+    align-items: center;
+    gap: 30px;
     flex-direction: column;
-    text-decoration: powderblue;
+    
+    
 }
 
 article{
